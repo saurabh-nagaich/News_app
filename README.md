@@ -2,10 +2,10 @@
 basic React-native android news-update app
 
 <h3>steps</h3>
-1.setup your react-native environment in your machine
-2.clone the repo
-3.install npm init {npm install}
-4.run commend { npm react-native run-android/ios }
+<div>1.setup your react-native environment in your machine  </div>
+<div>2.clone the repo  </div>
+<div>3.install npm init {npm install} </div>
+<div>4.run commend { npm react-native run-android/ios }  </div>
 
 
 <h1>React_native basic project</h1>
